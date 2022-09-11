@@ -2,6 +2,8 @@
   "name": "lumens",
   "version": "1.0.0",
   "dependencies": {
-    "discord.js": "^14.3.0"
+    "discord-interactions": "^2.0.2",
+    "dotenv": "^8.2.0",
+    "raw-body": "^2.4.1"
   }
 }
